@@ -252,9 +252,7 @@ export const remedies = [
         'Requires refrigeration if storing leftovers.'
       ],
       keywords: ['aging skin', 'avocado', 'face mask', 'hydration', 'antioxidants']
-    }
-  ];
-  [
+    },
     {
       id: 'warm-milk-nutmeg',
       title: 'Warm Milk with Nutmeg',
@@ -5973,33 +5971,6 @@ export const remedies = [
         'Avoid excessive choline if prone to digestive upset.'
       ],
       keywords: ['fetal alcohol syndrome', 'developmental support', 'omega-3', 'choline']
-    },
-    {
-      id: 'turmeric-ginger-tea',
-      title: 'Turmeric and Ginger Anti-Inflammatory Tea',
-      description: 'A natural recipe to reduce systemic inflammation for individuals with filariasis.',
-      ingredients: [
-        '1 teaspoon turmeric powder',
-        '1 teaspoon grated fresh ginger',
-        '1 cup boiling water',
-        '1 teaspoon honey (optional)',
-        'Pinch of black pepper'
-      ],
-      instructions: [
-        'Steep turmeric and ginger in boiling water for 10 minutes.',
-        'Strain the tea into a cup.',
-        'Add honey and a pinch of black pepper to enhance absorption.',
-        'Drink twice daily.'
-      ],
-      pros: [
-        'Turmeric and ginger reduce systemic inflammation and promote healing.',
-        'Honey adds sweetness and mild antibacterial benefits.'
-      ],
-      cons: [
-        'This is a supportive remedy; filariasis often requires antiparasitic medications prescribed by a doctor.',
-        'Avoid excessive turmeric if on blood-thinning medications.'
-      ],
-      keywords: ['filariasis', 'anti-inflammatory support', 'turmeric', 'ginger']
     },
     {
       id: 'aloe-coconut-mouth-rinse',
