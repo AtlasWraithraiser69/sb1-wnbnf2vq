@@ -22424,10 +22424,7 @@ export const remedies = [
         'This is a supportive remedy; vesicoureteral reflux often requires medical evaluation and treatment.'
       ],
       keywords: ['vesicoureteral reflux', 'urinary health support', 'cranberry', 'dandelion']
-    }
-  ];
-  
-  const recipes = [
+    },
     {
       id: 'licorice-thyme-tea',
       title: 'Licorice Root and Thyme Tea',
