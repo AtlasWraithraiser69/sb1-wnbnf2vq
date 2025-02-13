@@ -181,7 +181,7 @@ export const remedies = [
     {
       id: 'tea-tree-oil-foot-soak',
       title: 'Tea Tree Oil Foot Soak',
-      description: 'A natural remedy to treat athlete’s foot and reduce itching.',
+      description: 'A natural remedy to treat athletes foot and reduce itching.',
       ingredients: [
         '1 gallon warm water',
         '10 drops tea tree oil',
@@ -194,14 +194,14 @@ export const remedies = [
         'Repeat daily until symptoms subside.'
       ],
       pros: [
-        'Tea tree oil has antifungal properties effective against athlete’s foot.',
+        'Tea tree oil has antifungal properties effective against athletes foot.',
         'Baking soda neutralizes odor and reduces itching.'
       ],
       cons: [
         'Prolonged soaking may dry out the skin.',
         'Test for sensitivity to tea tree oil before regular use.'
       ],
-      keywords: ['athlete’s foot', 'tea tree oil', 'foot soak', 'antifungal', 'itching']
+      keywords: ['athletes foot', 'tea tree oil', 'foot soak', 'antifungal', 'itching']
     },
     {
       id: 'ginger-mint-tea',
@@ -355,7 +355,7 @@ export const remedies = [
     {
       id: 'garlic-foot-paste',
       title: 'Garlic Foot Paste',
-      description: 'A natural antifungal treatment for advanced athlete’s foot.',
+      description: 'A natural antifungal treatment for advanced athletes foot.',
       ingredients: [
         '2 cloves garlic, minced',
         '1 teaspoon olive oil',
@@ -375,7 +375,7 @@ export const remedies = [
         'Garlic may cause a burning sensation on sensitive skin.',
         'Avoid prolonged use if skin becomes overly irritated.'
       ],
-      keywords: ['athlete’s foot', 'garlic', 'coconut oil', 'antifungal', 'natural remedy']
+      keywords: ['athletes foot', 'garlic', 'coconut oil', 'antifungal', 'natural remedy']
     },
     {
       id: 'aloe-vera-juice',
@@ -397,7 +397,7 @@ export const remedies = [
       ],
       cons: [
         'Overconsumption may lead to diarrhea or electrolyte imbalance.',
-        'Ensure you’re using food-grade aloe vera juice, not topical gel.'
+        'Ensure youre using food-grade aloe vera juice, not topical gel.'
       ],
       keywords: ['acid reflux', 'chronic', 'aloe vera', 'juice', 'inflammation']
     },
@@ -499,9 +499,7 @@ export const remedies = [
         'Always dilute oils properly and test for allergies beforehand.'
       ],
       keywords: ['anxiety', 'quick relief', 'essential oils', 'aromatherapy', 'deep breathing']
-    }
-  ];
-  [
+    },
     {
       id: 'beetroot-carrot-juice',
       title: 'Beetroot and Carrot Juice',
@@ -531,7 +529,7 @@ export const remedies = [
     {
       id: 'neem-oil-foot-spray',
       title: 'Neem Oil Foot Spray',
-      description: 'A natural preventative spray to protect against athlete’s foot.',
+      description: 'A natural preventative spray to protect against athletes foot.',
       ingredients: [
         '10 drops neem oil',
         '½ cup distilled water',
@@ -552,7 +550,7 @@ export const remedies = [
         'Strong smell of neem oil may be unpleasant for some.',
         'Test for skin sensitivity before regular use.'
       ],
-      keywords: ['athlete’s foot', 'neem oil', 'foot spray', 'antifungal', 'preventative']
+      keywords: ['athletes foot', 'neem oil', 'foot spray', 'antifungal', 'preventative']
     },
     {
       id: 'lavender-epsom-salt-bath',
@@ -752,9 +750,7 @@ export const remedies = [
         'Avoid peppermint oil if sensitive to strong scents.'
       ],
       keywords: ['aging lips', 'coconut oil', 'sugar scrub', 'exfoliation', 'hydration']
-    }
-  ];
-  [
+    },
     {
       id: 'omega-3-smoothie',
       title: 'Omega-3 Rich Smoothie',
@@ -998,13 +994,11 @@ export const remedies = [
         'Turmeric reduces inflammation and promotes healing.'
       ],
       cons: [
-        'May cause mild drowsiness due to ashwagandha’s calming effects.',
+        'May cause mild drowsiness due to ashwagandhas calming effects.',
         'Avoid if allergic to any of the ingredients.'
       ],
       keywords: ['ataxia', 'ashwagandha', 'turmeric', 'golden milk', 'nerve support']
-    }
-  ];
-  [
+    },
     {
       id: 'garlic-lemon-tonic',
       title: 'Garlic and Lemon Tonic',
@@ -1312,7 +1306,7 @@ export const remedies = [
     {
       id: 'oatmeal-coconut-oil-paste',
       title: 'Oatmeal and Coconut Oil Paste',
-      description: 'A soothing paste to relieve skin irritation caused by baker’s itch.',
+      description: 'A soothing paste to relieve skin irritation caused by bakers itch.',
       ingredients: [
         '2 tablespoons ground oatmeal',
         '1 tablespoon coconut oil',
@@ -1332,7 +1326,7 @@ export const remedies = [
         'Perform a patch test to avoid allergic reactions.',
         'Avoid if the skin is broken or infected.'
       ],
-      keywords: ['baker’s itch', 'oatmeal', 'coconut oil', 'paste', 'skin irritation']
+      keywords: ['bakers itch', 'oatmeal', 'coconut oil', 'paste', 'skin irritation']
     },
     {
       id: 'papaya-seeds-honey-tonic',
@@ -1385,7 +1379,7 @@ export const remedies = [
     {
       id: 'hawthorn-berry-tea',
       title: 'Hawthorn Berry Tea',
-      description: 'A heart-supporting tea to improve circulation and strengthen heart muscles in Barlow’s Syndrome.',
+      description: 'A heart-supporting tea to improve circulation and strengthen heart muscles in Barlows Syndrome.',
       ingredients: [
         '1 teaspoon dried hawthorn berries',
         '1 cup boiling water',
@@ -1405,7 +1399,7 @@ export const remedies = [
         'May interact with heart medications or blood pressure drugs.',
         'Consult a doctor before use, especially for chronic heart conditions.'
       ],
-      keywords: ['barlow’s syndrome', 'hawthorn berry', 'tea', 'heart health', 'circulation']
+      keywords: ['barlows syndrome', 'hawthorn berry', 'tea', 'heart health', 'circulation']
     },
     {
       id: 'coconut-water-banana-smoothie',
@@ -1460,7 +1454,7 @@ export const remedies = [
     {
       id: 'collagen-bone-broth',
       title: 'Collagen-Rich Bone Broth',
-      description: 'A nourishing broth to support joint and connective tissue health in Beal’s Syndrome.',
+      description: 'A nourishing broth to support joint and connective tissue health in Beals Syndrome.',
       ingredients: [
         '1 pound beef or chicken bones',
         '2 carrots, chopped',
@@ -1485,7 +1479,7 @@ export const remedies = [
         'Long cooking time may not be feasible for everyone.',
         'Avoid if allergic to any of the ingredients.'
       ],
-      keywords: ['beal’s syndrome', 'bone broth', 'collagen', 'joint support', 'connective tissue']
+      keywords: ['beals syndrome', 'bone broth', 'collagen', 'joint support', 'connective tissue']
     },
     {
       id: 'omega-3-turmeric-smoothie',
@@ -1517,7 +1511,7 @@ export const remedies = [
     {
       id: 'turmeric-ginger-tea',
       title: 'Turmeric and Ginger Anti-Inflammatory Tea',
-      description: 'A soothing tea to reduce systemic inflammation in Behçet’s Syndrome.',
+      description: 'A soothing tea to reduce systemic inflammation in Behçets Syndrome.',
       ingredients: [
         '1 teaspoon turmeric powder',
         '1 teaspoon grated fresh ginger',
@@ -1532,14 +1526,14 @@ export const remedies = [
         'Drink twice daily.'
       ],
       pros: [
-        'Turmeric and ginger reduce systemic inflammation, which is a hallmark of Behçet’s Syndrome.',
+        'Turmeric and ginger reduce systemic inflammation, which is a hallmark of Behçets Syndrome.',
         'Honey adds sweetness and mild antibacterial benefits.'
       ],
       cons: [
-        'This is a supportive remedy; Behçet’s Syndrome often requires immunosuppressive medications.',
+        'This is a supportive remedy; Behçets Syndrome often requires immunosuppressive medications.',
         'Avoid excessive turmeric if on blood-thinning medications.'
       ],
-      keywords: ['behçet’s syndrome', 'turmeric', 'ginger', 'tea', 'inflammation support']
+      keywords: ['behçets syndrome', 'turmeric', 'ginger', 'tea', 'inflammation support']
     },
     {
       id: 'bilberry-ginkgo-infusion',
@@ -1568,7 +1562,7 @@ export const remedies = [
     {
       id: 'castor-oil-compress',
       title: 'Castor Oil and Warm Compress',
-      description: 'A natural remedy to support facial nerve recovery in Bell’s Palsy.',
+      description: 'A natural remedy to support facial nerve recovery in Bells Palsy.',
       ingredients: [
         '1 tablespoon castor oil',
         '1 clean cloth',
@@ -1585,10 +1579,10 @@ export const remedies = [
         'Warm compresses relax facial muscles and promote healing.'
       ],
       cons: [
-        'This is a supportive remedy; Bell’s palsy often requires medical evaluation and treatment.',
+        'This is a supportive remedy; Bells palsy often requires medical evaluation and treatment.',
         'Avoid excessive heat to prevent burns.'
       ],
-      keywords: ['bell’s palsy', 'castor oil', 'warm compress', 'facial nerve', 'recovery']
+      keywords: ['bells palsy', 'castor oil', 'warm compress', 'facial nerve', 'recovery']
     },
     {
       id: 'magnesium-smoothie',
@@ -1644,7 +1638,7 @@ export const remedies = [
     {
       id: 'dandelion-nettle-tea',
       title: 'Dandelion Root and Nettle Tea',
-      description: 'A natural tea to support kidney health in Berger’s Disease (IgA Nephropathy).',
+      description: 'A natural tea to support kidney health in Bergers Disease (IgA Nephropathy).',
       ingredients: [
         '1 teaspoon dried dandelion root',
         '1 teaspoon dried nettle leaves',
@@ -1663,7 +1657,7 @@ export const remedies = [
         'May interact with diuretic medications or exacerbate gallbladder issues.',
         'Not a substitute for medical monitoring or treatment.'
       ],
-      keywords: ['berger’s disease', 'dandelion root', 'nettle', 'tea', 'kidney support']
+      keywords: ['bergers disease', 'dandelion root', 'nettle', 'tea', 'kidney support']
     },
     {
       id: 'kale-smoothie',
@@ -1716,7 +1710,7 @@ export const remedies = [
     {
       id: 'omega-3-rosemary-capsules',
       title: 'Omega-3 and Rosemary Capsules',
-      description: 'A natural remedy to support brain health in Bickerstaff’s Encephalitis.',
+      description: 'A natural remedy to support brain health in Bickerstaffs Encephalitis.',
       ingredients: [
         'Omega-3 fish oil capsule (1,000 mg)',
         'Rosemary essential oil (1 drop diluted in carrier oil)',
@@ -1732,10 +1726,10 @@ export const remedies = [
         'Rosemary enhances memory and cognitive function.'
       ],
       cons: [
-        'This is a supportive remedy; Bickerstaff’s encephalitis requires immediate medical attention.',
+        'This is a supportive remedy; Bickerstaffs encephalitis requires immediate medical attention.',
         'Avoid rosemary oil if pregnant or breastfeeding.'
       ],
-      keywords: ['bickerstaff’s encephalitis', 'omega-3', 'rosemary', 'capsules', 'neurological support']
+      keywords: ['bickerstaffs encephalitis', 'omega-3', 'rosemary', 'capsules', 'neurological support']
     },
     {
       id: 'lemon-olive-oil-flush',
@@ -1790,7 +1784,7 @@ export const remedies = [
     {
       id: 'ginkgo-rosemary-infusion',
       title: 'Ginkgo Biloba and Rosemary Infusion',
-      description: 'A cognitive-supporting infusion to improve brain function in Binswanger’s Disease.',
+      description: 'A cognitive-supporting infusion to improve brain function in Binswangers Disease.',
       ingredients: [
         '1 teaspoon dried ginkgo biloba leaves',
         '1 sprig fresh rosemary',
@@ -1809,7 +1803,7 @@ export const remedies = [
         'Ginkgo biloba may interact with blood thinners or other medications.',
         'Avoid excessive use if prone to headaches.'
       ],
-      keywords: ['binswanger’s disease', 'ginkgo biloba', 'rosemary', 'infusion', 'cognitive support']
+      keywords: ['binswangers disease', 'ginkgo biloba', 'rosemary', 'infusion', 'cognitive support']
     },
     {
       id: 'elderberry-syrup',
@@ -1968,7 +1962,7 @@ export const remedies = [
     {
       id: 'bone-broth-collagen',
       title: 'Bone Broth with Collagen',
-      description: 'A nourishing broth to support joint and bone health in Blount’s Disease.',
+      description: 'A nourishing broth to support joint and bone health in Blounts Disease.',
       ingredients: [
         '1 pound beef or chicken bones',
         '2 carrots, chopped',
@@ -1993,7 +1987,7 @@ export const remedies = [
         'Long cooking time may not be feasible for everyone.',
         'Avoid if allergic to any of the ingredients.'
       ],
-      keywords: ['blount’s disease', 'bone broth', 'collagen', 'joint support', 'bone health']
+      keywords: ['blounts disease', 'bone broth', 'collagen', 'joint support', 'bone health']
     },
     {
       id: 'horse-chestnut-cream',
@@ -2022,7 +2016,7 @@ export const remedies = [
     {
       id: 'licorice-turmeric-tea',
       title: 'Licorice Root and Turmeric Tea',
-      description: 'A natural tea to support immune health and reduce inflammation in Boeck’s Sarcoid.',
+      description: 'A natural tea to support immune health and reduce inflammation in Boecks Sarcoid.',
       ingredients: [
         '1 teaspoon licorice root powder',
         '½ teaspoon turmeric powder',
@@ -2043,7 +2037,7 @@ export const remedies = [
         'Long-term use of licorice root may raise blood pressure.',
         'Consult a doctor before use, especially if managing chronic sarcoidosis.'
       ],
-      keywords: ['boeck’s sarcoid', 'licorice root', 'turmeric', 'tea', 'immune support']
+      keywords: ['boecks sarcoid', 'licorice root', 'turmeric', 'tea', 'immune support']
     },
     {
       id: 'ginger-eucalyptus-steam',
@@ -2073,33 +2067,33 @@ export const remedies = [
     },
     {
       id: 'cats-claw-astragalus-tonic',
-      title: 'Cat’s Claw and Astragalus Tonic',
+      title: 'Cats Claw and Astragalus Tonic',
       description: 'A natural tonic to support immune health in Borreliosis (Lyme Disease).',
       ingredients: [
-        '1 teaspoon cat’s claw tincture',
+        '1 teaspoon cats claw tincture',
         '1 teaspoon astragalus root powder',
         '1 cup warm water',
         '1 teaspoon honey (optional)'
       ],
       instructions: [
-        'Mix cat’s claw tincture and astragalus root powder into warm water.',
+        'Mix cats claw tincture and astragalus root powder into warm water.',
         'Stir well and sweeten with honey if desired.',
         'Drink this tonic twice daily.'
       ],
       pros: [
-        'Cat’s claw has antimicrobial and anti-inflammatory properties that may help combat Lyme disease symptoms.',
+        'Cats claw has antimicrobial and anti-inflammatory properties that may help combat Lyme disease symptoms.',
         'Astragalus boosts the immune system and enhances overall vitality.'
       ],
       cons: [
         'This is a supportive remedy; Lyme disease often requires antibiotics prescribed by a doctor.',
-        'Avoid excessive use of cat’s claw if on immunosuppressive medications.'
+        'Avoid excessive use of cats claw if on immunosuppressive medications.'
       ],
-      keywords: ['borreliosis', 'cat’s claw', 'astragalus', 'tonic', 'immune support']
+      keywords: ['borreliosis', 'cats claw', 'astragalus', 'tonic', 'immune support']
     },
     {
       id: 'omega-3-ashwagandha-smoothie',
       title: 'Omega-3 and Ashwagandha Smoothie',
-      description: 'A nutrient-packed smoothie to support brain health in Bourneville’s Disease (Tuberous Sclerosis).',
+      description: 'A nutrient-packed smoothie to support brain health in Bournevilles Disease (Tuberous Sclerosis).',
       ingredients: [
         '1 tablespoon flaxseed oil or fish oil',
         '½ teaspoon ashwagandha powder',
@@ -2119,7 +2113,7 @@ export const remedies = [
         'This is a supportive remedy; tuberous sclerosis requires medical management.',
         'Avoid excessive ashwagandha if on sedative medications.'
       ],
-      keywords: ['bourneville’s disease', 'omega-3', 'ashwagandha', 'smoothie', 'neurological support']
+      keywords: ['bournevilles disease', 'omega-3', 'ashwagandha', 'smoothie', 'neurological support']
     },
     {
       id: 'arnica-warm-compress',
@@ -2173,27 +2167,27 @@ export const remedies = [
     },
     {
       id: 'st-johns-wort-massage',
-      title: 'St. John’s Wort Oil Massage',
+      title: 'St. Johns Wort Oil Massage',
       description: 'A natural remedy to relieve nerve pain in Brachial Neuritis.',
       ingredients: [
-        '2 tablespoons St. John’s Wort oil',
+        '2 tablespoons St. Johns Wort oil',
         '1 drop lavender essential oil (optional)'
       ],
       instructions: [
-        'Mix St. John’s Wort oil with lavender oil if desired.',
+        'Mix St. Johns Wort oil with lavender oil if desired.',
         'Gently massage the mixture onto the affected area.',
         'Leave it on for 20 to 30 minutes, then rinse off.',
         'Use twice daily.'
       ],
       pros: [
-        'St. John’s Wort has analgesic and nerve-healing properties.',
+        'St. Johns Wort has analgesic and nerve-healing properties.',
         'Lavender adds calming and soothing effects.'
       ],
       cons: [
-        'Avoid sun exposure after applying St. John’s Wort oil, as it increases photosensitivity.',
+        'Avoid sun exposure after applying St. Johns Wort oil, as it increases photosensitivity.',
         'Perform a patch test to avoid skin irritation.'
       ],
-      keywords: ['brachial neuritis', 'st. john’s wort', 'oil massage', 'nerve pain', 'relief']
+      keywords: ['brachial neuritis', 'st. johns wort', 'oil massage', 'nerve pain', 'relief']
     },
     {
       id: 'bone-broth-collagen',
@@ -2505,7 +2499,7 @@ export const remedies = [
     {
       id: 'cayenne-ginger-tonic',
       title: 'Cayenne Pepper and Ginger Circulation Tonic',
-      description: 'A natural tonic to improve blood circulation in Buerger’s Disease.',
+      description: 'A natural tonic to improve blood circulation in Buergers Disease.',
       ingredients: [
         '¼ teaspoon cayenne pepper powder',
         '1 teaspoon grated fresh ginger',
@@ -2525,7 +2519,7 @@ export const remedies = [
         'Cayenne pepper may cause stomach upset or heartburn in sensitive individuals.',
         'Avoid excessive use if on blood-thinning medications.'
       ],
-      keywords: ['buerger’s disease', 'cayenne pepper', 'ginger', 'tonic', 'circulatory support']
+      keywords: ['buergers disease', 'cayenne pepper', 'ginger', 'tonic', 'circulatory support']
     },
     {
       id: 'coconut-oil-tea-tree-suppository',
@@ -3404,24 +3398,24 @@ export const remedies = [
     },
     {
       id: 'st-johns-lavender-tea',
-      title: 'St. John’s Wort and Lavender Tea',
+      title: 'St. Johns Wort and Lavender Tea',
       description: 'A natural recipe to support mood and alleviate mild to moderate depression.',
       ingredients: [
-        '1 teaspoon dried St. John’s Wort',
+        '1 teaspoon dried St. Johns Wort',
         '1 teaspoon dried lavender flowers',
         '1 cup boiling water'
       ],
       instructions: [
-        'Steep St. John’s Wort and lavender in boiling water for 10 minutes.',
+        'Steep St. Johns Wort and lavender in boiling water for 10 minutes.',
         'Strain the tea into a cup.',
         'Drink once daily.'
       ],
       pros: [
-        'St. John’s Wort is traditionally used to alleviate mild to moderate depression.',
+        'St. Johns Wort is traditionally used to alleviate mild to moderate depression.',
         'Lavender calms the nervous system and reduces anxiety.'
       ],
       cons: [
-        'St. John’s Wort may interact with antidepressants or other medications.',
+        'St. Johns Wort may interact with antidepressants or other medications.',
         'Consult a doctor before use, especially if managing severe depression.'
       ],
       keywords: ['depression', 'mood support', 'st johns wort', 'lavender']
@@ -3851,7 +3845,7 @@ export const remedies = [
     {
       id: 'arnica-warm-compress',
       title: 'Arnica Gel and Warm Compress',
-      description: 'A natural recipe to improve hand flexibility for individuals with Dupuytren’s Contracture.',
+      description: 'A natural recipe to improve hand flexibility for individuals with Dupuytrens Contracture.',
       ingredients: [
         'Arnica gel or cream',
         '1 clean cloth',
@@ -5398,7 +5392,7 @@ export const remedies = [
     {
       id: 'arnica-warm-compress',
       title: 'Arnica Gel and Warm Compress',
-      description: 'A natural recipe to reduce inflammation and improve circulation for individuals with Erb’s palsy.',
+      description: 'A natural recipe to reduce inflammation and improve circulation for individuals with Erbs palsy.',
       ingredients: [
         'Arnica gel or cream',
         '1 clean cloth',
@@ -6917,7 +6911,7 @@ export const remedies = [
     {
       id: 'bugleweed-lemon-balm-tea',
       title: 'Bugleweed and Lemon Balm Tea',
-      description: 'A natural recipe to regulate thyroid hormone levels for Graves’ disease.',
+      description: 'A natural recipe to regulate thyroid hormone levels for Graves disease.',
       ingredients: [
         '1 teaspoon dried bugleweed',
         '1 teaspoon dried lemon balm leaves',
@@ -7089,7 +7083,7 @@ export const remedies = [
     {
       id: 'milk-thistle-dandelion-tea',
       title: 'Milk Thistle and Dandelion Tea',
-      description: 'A natural recipe to support liver health for individuals with Gilbert’s syndrome.',
+      description: 'A natural recipe to support liver health for individuals with Gilberts syndrome.',
       ingredients: [
         '1 teaspoon milk thistle seeds',
         '1 teaspoon dried dandelion root',
@@ -8538,7 +8532,7 @@ export const remedies = [
     {
       id: 'brazil-nut-smoothie',
       title: 'Selenium-Rich Brazil Nut Smoothie',
-      description: 'A natural recipe to support thyroid function for Hashimoto’s thyroiditis.',
+      description: 'A natural recipe to support thyroid function for Hashimotos thyroiditis.',
       ingredients: [
         '2 Brazil nuts',
         '1 banana',
@@ -8555,7 +8549,7 @@ export const remedies = [
       ],
       cons: [
         'Limit Brazil nut consumption to avoid selenium toxicity (no more than 2 to 3 per day).',
-        'This is a supportive remedy; Hashimoto’s thyroiditis requires medical management.'
+        'This is a supportive remedy; Hashimotos thyroiditis requires medical management.'
       ],
       keywords: ['hashimoto thyroiditis', 'thyroid support', 'brazil nuts', 'selenium']
     },
@@ -8781,7 +8775,7 @@ export const remedies = [
     {
       id: 'turmeric-ginger-tea',
       title: 'Turmeric and Ginger Anti-Inflammatory Tea',
-      description: 'A natural recipe to reduce systemic inflammation for Huntington’s disease.',
+      description: 'A natural recipe to reduce systemic inflammation for Huntingtons disease.',
       ingredients: [
         '1 teaspoon turmeric powder',
         '1 teaspoon grated fresh ginger',
@@ -8800,7 +8794,7 @@ export const remedies = [
         'Honey adds sweetness and mild antibacterial benefits.'
       ],
       cons: [
-        'This is a supportive remedy; Huntington’s disease requires comprehensive medical management.',
+        'This is a supportive remedy; Huntingtons disease requires comprehensive medical management.',
         'Avoid excessive turmeric if on blood-thinning medications.'
       ],
       keywords: ['huntingtons disease', 'neurological support', 'turmeric', 'ginger']
@@ -17554,7 +17548,7 @@ export const remedies = [
     {
       id: 'chamomile-honey-eyewash',
       title: 'Chamomile and Honey Eyewash',
-      description: 'A natural recipe to soothe eye irritation for ophthalmic Graves’ disease.',
+      description: 'A natural recipe to soothe eye irritation for ophthalmic Graves disease.',
       ingredients: [
         '1 chamomile tea bag',
         '1 cup boiling water',
@@ -17572,7 +17566,7 @@ export const remedies = [
       ],
       cons: [
         'Ensure sterility to avoid worsening the condition.',
-        'This is a supportive remedy; ophthalmic Graves’ disease requires medical evaluation and treatment.'
+        'This is a supportive remedy; ophthalmic Graves disease requires medical evaluation and treatment.'
       ],
       keywords: ['ophthalmic graves disease', 'eye health support', 'chamomile', 'honey']
     },
@@ -17781,7 +17775,7 @@ export const remedies = [
     {
       id: 'epsom-salt-bath',
       title: 'Magnesium-Rich Epsom Salt Bath',
-      description: 'A natural recipe to relax muscles and calm the nervous system for Parkinson’s disease.',
+      description: 'A natural recipe to relax muscles and calm the nervous system for Parkinsons disease.',
       ingredients: [
         '2 cups Epsom salt',
         '1 gallon warm water',
@@ -17799,7 +17793,7 @@ export const remedies = [
       ],
       cons: [
         'Overuse may lead to dehydration or skin irritation.',
-        'This is a supportive remedy; Parkinson’s disease requires medical monitoring and treatment.'
+        'This is a supportive remedy; Parkinsons disease requires medical monitoring and treatment.'
       ],
       keywords: ['parkinsons disease', 'neurological support', 'epsom salt', 'lavender']
     },
@@ -18022,7 +18016,7 @@ export const remedies = [
     {
       id: 'collagen-bone-broth',
       title: 'Collagen-Rich Bone Broth',
-      description: 'A natural recipe to support bone density for Paget’s disease.',
+      description: 'A natural recipe to support bone density for Pagets disease.',
       ingredients: [
         '1 pound beef or chicken bones',
         '2 carrots, chopped',
@@ -18045,7 +18039,7 @@ export const remedies = [
       ],
       cons: [
         'Long cooking time may not be feasible for everyone.',
-        'This is a supportive remedy; Paget’s disease requires medical monitoring and treatment.'
+        'This is a supportive remedy; Pagets disease requires medical monitoring and treatment.'
       ],
       keywords: ['pagets disease', 'bone health support', 'collagen', 'bone broth']
     },
@@ -18386,7 +18380,7 @@ export const remedies = [
     {
       id: 'arnica-warm-compress',
       title: 'Arnica Gel and Warm Compress',
-      description: 'A natural recipe to reduce inflammation for Peyronie’s disease.',
+      description: 'A natural recipe to reduce inflammation for Peyronies disease.',
       ingredients: [
         'Arnica gel or cream',
         '1 clean cloth',
@@ -19054,7 +19048,7 @@ export const remedies = [
     {
       id: 'turmeric-ginger-tea',
       title: 'Turmeric and Ginger Anti-Inflammatory Tea',
-      description: 'A natural recipe to reduce inflammation for Quincke’s edema (angioedema).',
+      description: 'A natural recipe to reduce inflammation for Quinckes edema (angioedema).',
       ingredients: [
         '1 teaspoon turmeric powder',
         '1 teaspoon grated fresh ginger',
@@ -19283,7 +19277,7 @@ export const remedies = [
     {
       id: 'hawthorn-garlic-tea',
       title: 'Hawthorn Berry and Garlic Tea',
-      description: 'A natural recipe to support cardiovascular health for Quincke’s disease.',
+      description: 'A natural recipe to support cardiovascular health for Quinckes disease.',
       ingredients: [
         '1 teaspoon dried hawthorn berries',
         '1 clove garlic, minced',
@@ -19302,7 +19296,7 @@ export const remedies = [
       ],
       cons: [
         'May interact with heart medications or blood pressure drugs.',
-        'This is a supportive remedy; Quincke’s disease requires medical monitoring and treatment.'
+        'This is a supportive remedy; Quinckes disease requires medical monitoring and treatment.'
       ],
       keywords: ['quinckes disease', 'cardiovascular support', 'hawthorn berry', 'garlic']
     },
@@ -20247,7 +20241,7 @@ export const remedies = [
     {
       id: 'cayenne-ginger-tea',
       title: 'Cayenne Pepper and Ginger Tea',
-      description: 'A natural recipe to improve circulation for Raynaud’s disease.',
+      description: 'A natural recipe to improve circulation for Raynauds disease.',
       ingredients: [
         '¼ teaspoon cayenne pepper powder',
         '1 teaspoon grated fresh ginger',
@@ -20266,7 +20260,7 @@ export const remedies = [
       ],
       cons: [
         'Avoid excessive cayenne pepper if sensitive to spice.',
-        'This is a supportive remedy; Raynaud’s disease requires medical monitoring and treatment.'
+        'This is a supportive remedy; Raynauds disease requires medical monitoring and treatment.'
       ],
       keywords: ['raynauds disease', 'circulatory support', 'cayenne pepper', 'ginger']
     },
@@ -20523,7 +20517,7 @@ export const remedies = [
     {
       id: 'turmeric-ginger-tea',
       title: 'Turmeric and Ginger Anti-Inflammatory Tea',
-      description: 'A natural recipe to reduce inflammation for Reiter’s syndrome.',
+      description: 'A natural recipe to reduce inflammation for Reiters syndrome.',
       ingredients: [
         '1 teaspoon turmeric powder',
         '1 teaspoon grated fresh ginger',
@@ -20543,7 +20537,7 @@ export const remedies = [
       ],
       cons: [
         'Avoid excessive turmeric if on blood-thinning medications.',
-        'This is a supportive remedy; Reiter’s syndrome requires medical evaluation and treatment.'
+        'This is a supportive remedy; Reiters syndrome requires medical evaluation and treatment.'
       ],
       keywords: ['reiters syndrome', 'anti-inflammatory support', 'turmeric', 'ginger']
     },
@@ -20969,7 +20963,7 @@ export const remedies = [
     {
       id: 'omega-rosemary-capsules',
       title: 'Omega-3 and Rosemary Capsules',
-      description: 'A natural recipe to support brain health for Sjögren’s syndrome.',
+      description: 'A natural recipe to support brain health for Sjögrens syndrome.',
       ingredients: [
         'Omega-3 fish oil capsule (1,000 mg)',
         'Rosemary essential oil (1 drop diluted in carrier oil)',
@@ -20985,7 +20979,7 @@ export const remedies = [
         'Rosemary enhances memory and cognitive function.'
       ],
       cons: [
-        'This is a supportive remedy; Sjögren’s syndrome requires medical monitoring and treatment.',
+        'This is a supportive remedy; Sjögrens syndrome requires medical monitoring and treatment.',
         'Avoid excessive rosemary oil if prone to allergies.'
       ],
       keywords: ['sjogrens syndrome', 'immune support', 'omega-3', 'rosemary']
@@ -22478,7 +22472,7 @@ export const remedies = [
     {
       id: 'dandelion-lemon-tea',
       title: 'Dandelion Root and Lemon Tea',
-      description: 'A natural recipe to support liver detoxification for Wilson’s disease.',
+      description: 'A natural recipe to support liver detoxification for Wilsons disease.',
       ingredients: [
         '1 teaspoon dried dandelion root',
         'Juice of ½ lemon',
@@ -22496,7 +22490,7 @@ export const remedies = [
       ],
       cons: [
         'May interact with medications or exacerbate gallbladder issues.',
-        'This is a supportive remedy; Wilson’s disease requires medical monitoring and chelation therapy.'
+        'This is a supportive remedy; Wilsons disease requires medical monitoring and chelation therapy.'
       ],
       keywords: ['wilsons disease', 'liver health support', 'dandelion', 'lemon']
     },
@@ -22643,7 +22637,7 @@ export const remedies = [
     {
       id: 'turmeric-ginger-tea',
       title: 'Turmeric and Ginger Anti-Inflammatory Tea',
-      description: 'A natural recipe to reduce systemic inflammation for Wegener’s granulomatosis.',
+      description: 'A natural recipe to reduce systemic inflammation for Wegeners granulomatosis.',
       ingredients: [
         '1 teaspoon turmeric powder',
         '1 teaspoon grated fresh ginger',
@@ -22663,7 +22657,7 @@ export const remedies = [
       ],
       cons: [
         'Avoid excessive turmeric if on blood-thinning medications.',
-        'This is a supportive remedy; Wegener’s granulomatosis requires medical evaluation and immunosuppressive treatment.'
+        'This is a supportive remedy; Wegeners granulomatosis requires medical evaluation and immunosuppressive treatment.'
       ],
       keywords: ['wegeners granulomatosis', 'anti-inflammatory support', 'turmeric', 'ginger']
     },
@@ -22813,15 +22807,15 @@ export const remedies = [
     },
     {
       id: 'wernicke-encephalopathy-emergency-support',
-      title: 'Wernicke’s Encephalopathy Emergency Support',
-      description: 'Wernicke’s encephalopathy is caused by severe thiamine (vitamin B1) deficiency and requires immediate medical intervention. Natural remedies are NOT appropriate for this condition.',
+      title: 'Wernickes Encephalopathy Emergency Support',
+      description: 'Wernickes encephalopathy is caused by severe thiamine (vitamin B1) deficiency and requires immediate medical intervention. Natural remedies are NOT appropriate for this condition.',
       ingredients: [],
       instructions: [
-        'If you suspect Wernicke’s encephalopathy, seek emergency medical care immediately.'
+        'If you suspect Wernickes encephalopathy, seek emergency medical care immediately.'
       ],
       pros: [],
       cons: [
-        'Natural remedies are NOT appropriate for Wernicke’s encephalopathy.'
+        'Natural remedies are NOT appropriate for Wernickes encephalopathy.'
       ],
       keywords: ['wernicke encephalopathy', 'neurological support']
     },
@@ -23034,15 +23028,15 @@ export const remedies = [
     },
     {
       id: 'wernicke-encephalopathy-emergency-support',
-      title: 'Wernicke’s Encephalopathy Emergency Support',
-      description: 'Wernicke’s encephalopathy is caused by severe thiamine (vitamin B1) deficiency and requires immediate medical intervention. Natural remedies are NOT appropriate for this condition.',
+      title: 'Wernickes Encephalopathy Emergency Support',
+      description: 'Wernickes encephalopathy is caused by severe thiamine (vitamin B1) deficiency and requires immediate medical intervention. Natural remedies are NOT appropriate for this condition.',
       ingredients: [],
       instructions: [
-        'If you suspect Wernicke’s encephalopathy, seek emergency medical care immediately.'
+        'If you suspect Wernickes encephalopathy, seek emergency medical care immediately.'
       ],
       pros: [],
       cons: [
-        'Natural remedies are NOT appropriate for Wernicke’s encephalopathy.'
+        'Natural remedies are NOT appropriate for Wernickes encephalopathy.'
       ],
       keywords: ['wernicke encephalopathy', 'neurological support']
     },
