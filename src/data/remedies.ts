@@ -1249,9 +1249,7 @@ export const remedies = [
         'This remedy is supportive and not a substitute for proper acclimatization or medical treatment for severe altitude sickness.'
       ],
       keywords: ['altitude sickness', 'coca leaf', 'ginger', 'lemon', 'tea']
-    }
-  ];
-  [
+    },
     {
       id: 'elderberry-echinacea-tonic',
       title: 'Elderberry and Echinacea Tonic',
@@ -1505,9 +1503,7 @@ export const remedies = [
         'Avoid excessive turmeric if on blood-thinning medications.'
       ],
       keywords: ['becker muscular dystrophy', 'omega-3', 'turmeric', 'smoothie', 'muscle support']
-    }
-  ];
-  [
+    },
     {
       id: 'turmeric-ginger-tea',
       title: 'Turmeric and Ginger Anti-Inflammatory Tea',
@@ -1754,9 +1750,7 @@ export const remedies = [
         'Avoid if allergic to citrus or olive oil.'
       ],
       keywords: ['biliary colic', 'lemon', 'olive oil', 'flush', 'liver support']
-    }
-  ];
-  [
+    },
     {
       id: 'milk-thistle-dandelion-tea',
       title: 'Milk Thistle and Dandelion Tea',
